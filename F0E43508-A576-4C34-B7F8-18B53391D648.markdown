@@ -1,0 +1,58 @@
+# List of useful apps for mac
+
+## Блокнот с поддержкой формата разметки .markdown
+Удобно писать конспекты и сразу форматировать текс с помощью горячих клавиш.
+
+[Home page](https://fsnot.es/)
+**Установка**
+```bash
+brew install --cask fsnotes
+```
+
+## ITerm
+Хороший терминал всему голова, а iTerm лучший терминал для macOs.
+[Home page](https://iterm2.com/downloads.html)
+**Установка**
+```bash
+brew install --cask iterm2
+```
+
+## Dozer(Когда в таскбаре слишком много иконок)
+[Home page](https://github.com/Mortennn/Dozer)
+**Установка**
+```bash
+brew install --cask dozer
+```
+
+## Rectangle (Управление окнами с помощью горячих клавиш)
+[Home page](https://github.com/rxhanson/Rectangler)
+**Установка**
+```bash
+brew install --cask rectangle
+```
+
+## Visual Studio Code
+Редактор кода.
+Удобно быстро поправить конфиг.
+[Home page](https://code.visualstudio.com/docs/?dv=osx)
+**Установка**
+```bash
+brew install --cask visual-studio-code
+```
+
+## Karabiner (Чтобы поменять fn <-> ctrl)
+[Home page](https://karabiner-elements.pqrs.org/)
+
+## Clipy (Менеджер буфера обмена)
+Незаменимая вещь.
+[Home page](https://clipy-app.com/)
+
+## Xnip (скриншоты)
+Я использую Annotate, но она куда-то пропала из стора.
+[Home page](https://xnipapp.com/)
+
+## JetBrains Toolbox
+Удобно скачивать и обновлять IDEA
+[Home page](https://www.jetbrains.com/ru-ru/toolbox-app/)
+
+
